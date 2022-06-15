@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duzit 杜子腾
 > 保持热爱 ❤️ 持续鲜活 🌹   
-> 喜欢打篮球🏀 跑步🏃 健身   
+> 喜欢打篮球🏀 跑步🏃 摄影 📷
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duzit)](https://github.com/anuraghazra/github-readme-stats)
